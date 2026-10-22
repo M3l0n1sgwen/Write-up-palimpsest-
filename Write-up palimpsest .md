@@ -1,8 +1,3 @@
----
-title: 'Write-up palimpsest '
-
----
-
 Hello mọi người hôm nay mình sẽ đi phân tích bài ransomware palimpsest nhé!
 
 Mô tả đề bài(README.md):
